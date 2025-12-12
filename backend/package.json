@@ -1,0 +1,26 @@
+{
+  "name": "autryx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrinprojs/autryx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aldrinprojs/autryx/issues"
+  },
+  "homepage": "https://github.com/aldrinprojs/autryx#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
+}
